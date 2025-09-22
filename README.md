@@ -302,7 +302,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email ItsMeStevieG@users.noreply.github.com instead of using the issue tracker.
+If you discover any security related issues, please report them using the issue tracker.
 
 ## Credits
 
@@ -311,4 +311,4 @@ If you discover any security related issues, please email ItsMeStevieG@users.nor
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
